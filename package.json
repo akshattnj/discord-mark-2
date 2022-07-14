@@ -1,0 +1,21 @@
+{
+  "name": "mark2",
+  "version": "1.0.0",
+  "description": "bot 2.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "johnny-five": "^2.1.0",
+    "realtime-usd-to-inr": "^0.0.3",
+    "steam-price-api": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
